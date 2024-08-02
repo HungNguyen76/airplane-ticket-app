@@ -40,12 +40,12 @@ function Navbar() {
           <ul className="flex md:flex-row flex-col md:items-center md:gap-[4vw] gap-8">
             <li>
               <Link className="hover:text-gray-500" to="https://www.facebook.com/phongve11chanhung/">
-                Tìm kiếm chuyến bay
+                Vé may bay quốc tế giá rẻ
               </Link>
             </li>
             <li>
               <Link className="hover:text-gray-500" to="https://www.facebook.com/phongve11chanhung/">
-                Tìm kiếm khách sạn
+                Vé máy bay nội địa giá rẻ
               </Link>
             </li>
             <li>
